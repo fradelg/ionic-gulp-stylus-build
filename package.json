@@ -1,0 +1,16 @@
+
+{
+  "name": "ionic-gulp-stylus-build",
+  "description": "Gulp task for Ionic projects to build Stylus stylesheets",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fradelg/ionic-gulp-stylus-build.git"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.5.0",
+    "nib": "^1.1.0"
+  }
+}
